@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lacuran
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning SQL, Java and Selenium
+- 🌱 I’m currently learning Java, PLaywright, Jmeter and API Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/kornel-wrzesien/
 
